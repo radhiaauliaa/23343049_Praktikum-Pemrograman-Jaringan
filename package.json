@@ -1,0 +1,29 @@
+{
+  "name": "jobsheet-9---socket-programming",
+  "version": "1.0.0",
+  "description": "Socket Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhiaauliaa/23343049_Praktikum-Pemrograman-Jaringan.git"
+  },
+  "author": "aulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radhiaauliaa/23343049_Praktikum-Pemrograman-Jaringan/issues"
+  },
+  "homepage": "https://github.com/radhiaauliaa/23343049_Praktikum-Pemrograman-Jaringan#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
