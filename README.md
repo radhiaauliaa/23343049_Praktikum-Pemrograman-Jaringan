@@ -67,9 +67,9 @@ mulai dari pengenalan dasar Node.js hingga implementasi komunikasi
 | **Jobsheet** | **Rangkuman** |
 |:--|:--:|
 | **Jobsheet 1 – Pengantar Node.js** | [Lihat](#-jobsheet-1--pengantar-nodejs) |
-| **Jobsheet 2 – JavaScript Essentials** | [Lihat](#-jobsheet-2--javascript-essentials) |
-| **Jobsheet 3 – Module System & Command Line Arguments** | [Lihat](#-jobsheet-3--module-system--command-line-arguments) |
-| **Jobsheet 4 – HTTP Request and API** | [Lihat](#-jobsheet-4--http-request-and-api) |
+| **Jobsheet 2 - Node.Js Module System** | [Lihat](#-jobsheet-2--nodejs-module--system) |
+| **Jobsheet 3 - HTTP Request and API** | [Lihat](#-jobsheet-3--http-request-and-api) |
+| **Jobsheet 4 - JavaScript Essentials** | [Lihat](#-jobsheet-4--javascript-essentials) |
 | **Jobsheet 5 – Web Server dan Express.js** | [Lihat](#-jobsheet-5--web-server-dan-expressjs) |
 | **Jobsheet 6 – JSON HTTP Endpoints** | [Lihat](#-jobsheet-6--json-http-endpoints) |
 | **Jobsheet 7 – Version Control, Git and App Deployment** | [Lihat](#-jobsheet-7--version-control-git-and-app-deployment) |
@@ -115,25 +115,9 @@ server.listen(3000, () => {
 
 ---
 
-## Jobsheet 2 – JavaScript Essentials
+## Jobsheet 2 - Node.Js Module System 
 <p align="justify">
-Jobsheet 2 membahas penguatan konsep dasar <strong>bahasa pemrograman JavaScript</strong>
-sebagai fondasi utama dalam pengembangan aplikasi Node.js.
-Pembelajaran dilakukan melalui platform NetAcad tanpa pembuatan direktori khusus,
-namun berfokus pada pemahaman sintaks dan logika pemrograman.
-</p>
-<p align="justify">
-Materi yang dipelajari meliputi penggunaan variabel dan tipe data, operator aritmatika
-dan logika, struktur kontrol seperti percabangan dan perulangan, pembuatan fungsi,
-serta pengolahan array. Pemahaman materi ini menjadi bekal penting dalam menulis
-kode program backend yang terstruktur, dinamis, dan mudah dikembangkan.
-</p>
-
----
-
-## Jobsheet 3 – Module System & Command Line Arguments
-<p align="justify">
-Jobsheet 3 membahas konsep <strong>modularisasi kode</strong> pada Node.js menggunakan
+Jobsheet 2 membahas konsep <strong>modularisasi kode</strong> pada Node.js menggunakan
 sistem modul <strong>CommonJS</strong>. Mahasiswa mempelajari cara memisahkan program
 ke dalam beberapa file modul agar kode lebih terstruktur, mudah dibaca, dan
 mudah dipelihara.
@@ -166,9 +150,9 @@ yargs.parse()
 
 ---
 
-## Jobsheet 4 – HTTP Request and API
+## Jobsheet 3 - HTTP Request and API 
 <p align="justify">
-Jobsheet 4 berfokus pada pemahaman mekanisme <strong>HTTP Request</strong> dan
+Jobsheet 3 berfokus pada pemahaman mekanisme <strong>HTTP Request</strong> dan
 <strong>Application Programming Interface (API)</strong> sebagai sarana komunikasi
 antara client dan server. Mahasiswa mempelajari konsep dasar metode HTTP,
 alur request–response, serta penggunaan format data <strong>JSON</strong>.
@@ -194,6 +178,23 @@ request({ url: url, json: true }, (error, response) => {
 })
 ```
 </details> 
+
+
+---
+
+## Jobsheet 4 - JavaScript Essentials 
+<p align="justify">
+Jobsheet 4 membahas penguatan konsep dasar <strong>bahasa pemrograman JavaScript</strong>
+sebagai fondasi utama dalam pengembangan aplikasi Node.js.
+Pembelajaran dilakukan melalui platform NetAcad tanpa pembuatan direktori khusus,
+namun berfokus pada pemahaman sintaks dan logika pemrograman.
+</p>
+<p align="justify">
+Materi yang dipelajari meliputi penggunaan variabel dan tipe data, operator aritmatika
+dan logika, struktur kontrol seperti percabangan dan perulangan, pembuatan fungsi,
+serta pengolahan array. Pemahaman materi ini menjadi bekal penting dalam menulis
+kode program backend yang terstruktur, dinamis, dan mudah dikembangkan.
+</p>
 
 ---
 
