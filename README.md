@@ -17,7 +17,7 @@
 
 <hr>
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
@@ -50,7 +50,7 @@
 
 <!-- <h2>Tentang Repository</h2> -->
 
-## 📂 Deskripsi
+## Deskripsi
 <p align="justify">
 Repository ini berisi kumpulan <strong>jobsheet praktikum</strong> yang dikerjakan selama perkuliahan mata kuliah <strong>Pemrograman Jaringan</strong>.
 Setiap jobsheet disusun untuk memperkenalkan konsep jaringan secara progresif,
@@ -64,17 +64,22 @@ mulai dari pengenalan dasar Node.js hingga implementasi komunikasi
 
 > Klik salah satu jobsheet di bawah ini untuk melihat rangkuman materi.
 
+## Daftar Jobsheet Praktikum
+
+> Klik salah satu jobsheet di bawah ini untuk melihat rangkuman materi.
+
 | **Jobsheet** | **Rangkuman** |
-|:--:|:----------------|:----------------|
-| **Jobsheet 1 – Pengantar Node.js** | [Lihat Rangkuman](#-jobsheet-1--pengantar-nodejs) |
-| **Jobsheet 2 – JavaScript Essentials** | [Lihat Rangkuman](#-jobsheet-2--javascript-essentials) |
-| **Jobsheet 3 – Module System & Command Line Arguments** | [Lihat Rangkuman](#-jobsheet-3--module-system--command-line-arguments) |
-| **Jobsheet 4 – HTTP Request and API** | [Lihat Rangkuman](#-jobsheet-4--http-request-and-api) |
-| **Jobsheet 5 – Web Server dan Express.js** | [Lihat Rangkuman](#-jobsheet-5--web-server-dan-expressjs) |
-| **Jobsheet 6 – JSON HTTP Endpoints** | [Lihat Rangkuman](#-jobsheet-6--json-http-endpoints) |
-| **Jobsheet 7 – Version Control, Git and App Deployment** | [Lihat Rangkuman](#-jobsheet-7--version-control-git-and-app-deployment) |
-| **Jobsheet 8 – MongoDB and No-SQL Databases** | [Lihat Rangkuman](#-jobsheet-8--mongodb-and-no-sql-databases) |
-| **Jobsheet 9 – Socket Programming** | [Lihat Rangkuman](#-jobsheet-9--socket-programming) |
+|:--:|:--:|
+| **Jobsheet 1 – Pengantar Node.js** | [Lihat](#-jobsheet-1--pengantar-nodejs) |
+| **Jobsheet 2 – JavaScript Essentials** | [Lihat](#-jobsheet-2--javascript-essentials) |
+| **Jobsheet 3 – Module System & Command Line Arguments** | [Lihat](#-jobsheet-3--module-system--command-line-arguments) |
+| **Jobsheet 4 – HTTP Request and API** | [Lihat](#-jobsheet-4--http-request-and-api) |
+| **Jobsheet 5 – Web Server dan Express.js** | [Lihat](#-jobsheet-5--web-server-dan-expressjs) |
+| **Jobsheet 6 – JSON HTTP Endpoints** | [Lihat](#-jobsheet-6--json-http-endpoints) |
+| **Jobsheet 7 – Version Control, Git and App Deployment** | [Lihat](#-jobsheet-7--version-control-git-and-app-deployment) |
+| **Jobsheet 8 – MongoDB and No-SQL Databases** | [Lihat](#-jobsheet-8--mongodb-and-no-sql-databases) |
+| **Jobsheet 9 – Socket Programming** | [Lihat](#-jobsheet-9--socket-programming) |
+
 
 ---
 
