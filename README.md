@@ -64,10 +64,6 @@ mulai dari pengenalan dasar Node.js hingga implementasi komunikasi
 
 > Klik salah satu jobsheet di bawah ini untuk melihat rangkuman materi.
 
-## Daftar Jobsheet Praktikum
-
-> Klik salah satu jobsheet di bawah ini untuk melihat rangkuman materi.
-
 | **Jobsheet** | **Rangkuman** |
 |:--|:--:|
 | **Jobsheet 1 – Pengantar Node.js** | [Lihat](#-jobsheet-1--pengantar-nodejs) |
