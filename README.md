@@ -66,16 +66,15 @@ mulai dari pengenalan dasar Node.js hingga implementasi komunikasi
 
 | **Jobsheet** | **Rangkuman** |
 |:--|:--:|
-| **Jobsheet 1 – Pengantar Node.js** | [Lihat](#-jobsheet-1--pengantar-nodejs) |
-| **Jobsheet 2 - Node.Js Module System** | [Lihat](#-jobsheet-2--nodejs-module--system) |
-| **Jobsheet 3 - HTTP Request and API** | [Lihat](#-jobsheet-3--http-request-and-api) |
-| **Jobsheet 4 - JavaScript Essentials** | [Lihat](#-jobsheet-4--javascript-essentials) |
-| **Jobsheet 5 – Web Server dan Express.js** | [Lihat](#-jobsheet-5--web-server-dan-expressjs) |
-| **Jobsheet 6 – JSON HTTP Endpoints** | [Lihat](#-jobsheet-6--json-http-endpoints) |
-| **Jobsheet 7 – Version Control, Git and App Deployment** | [Lihat](#-jobsheet-7--version-control-git-and-app-deployment) |
-| **Jobsheet 8 – MongoDB and No-SQL Databases** | [Lihat](#-jobsheet-8--mongodb-and-no-sql-databases) |
-| **Jobsheet 9 – Socket Programming** | [Lihat](#-jobsheet-9--socket-programming) |
-
+| Jobsheet 1 – Pengantar Node.js | [Lihat](#jobsheet-1--pengantar-nodejs) |
+| Jobsheet 2 - Node.Js Module System | [Lihat](#jobsheet-2---nodejs-module-system) |
+| Jobsheet 3 - HTTP Request and API | [Lihat](#jobsheet-3---http-request-and-api) |
+| Jobsheet 4 - JavaScript Essentials | [Lihat](#jobsheet-4---javascript-essentials) |
+| Jobsheet 5 – Web Server dan Express.js | [Lihat](#jobsheet-5--web-server-dan-expressjs) |
+| Jobsheet 6 – JSON HTTP Endpoints | [Lihat](#jobsheet-6--json-http-endpoints) |
+| Jobsheet 7 – Version Control, Git and App Deployment | [Lihat](#jobsheet-7--version-control-git-and-app-deployment) |
+| Jobsheet 8 – MongoDB and No-SQL Databases | [Lihat](#jobsheet-8--mongodb-and-no-sql-databases) |
+| Jobsheet 9 – Socket Programming | [Lihat](#jobsheet-9--socket-programming) |
 
 ---
 
