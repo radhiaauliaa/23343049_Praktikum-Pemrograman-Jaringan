@@ -69,7 +69,7 @@ mulai dari pengenalan dasar Node.js hingga implementasi komunikasi
 > Klik salah satu jobsheet di bawah ini untuk melihat rangkuman materi.
 
 | **Jobsheet** | **Rangkuman** |
-|:--:|:--:|
+|:--|:--:|
 | **Jobsheet 1 – Pengantar Node.js** | [Lihat](#-jobsheet-1--pengantar-nodejs) |
 | **Jobsheet 2 – JavaScript Essentials** | [Lihat](#-jobsheet-2--javascript-essentials) |
 | **Jobsheet 3 – Module System & Command Line Arguments** | [Lihat](#-jobsheet-3--module-system--command-line-arguments) |
